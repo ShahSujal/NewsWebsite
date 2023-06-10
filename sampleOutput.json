@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Hugo Torres: Nicaraguan ex-rebel leader dies after being jailed",
+        "description": "Former revolutionary general Hugo Torres has died aged 73, eight months after being detained for treason.",
+        "url": "http://www.bbc.co.uk/news/world-latin-america-60365011",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6DB3/production/_123238082_gettyimages-1238422353.jpg",
+        "publishedAt": "2022-02-13T04:52:27.4918974Z",
+        "content": "Image source, Getty Images\r\nImage caption, The former army general was detained last year on treason charges\r\nFormer Nicaraguan rebel leader Hugo Torres has died in prison aged 73, eight months after… [+1565 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC Sport",
+        "title": "Valieva trains before Olympics decision",
+        "description": "Russian teenage figure skater Kamila Valieva continues to prepare for her individual event at the Beijing Winter Olympics despite news of a failed doping test.",
+        "url": "http://www.bbc.co.uk/sport/winter-olympics/60364731",
+        "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/14779/production/_123233838_gettyimages-1238396303.jpg",
+        "publishedAt": "2022-02-13T04:52:25.5218132Z",
+        "content": "<table><tr><th> 24th Winter Olympic Games</th></tr>\r\n<tr><td>Hosts: Beijing, China Dates: 4-20 February</td></tr><tr><td>Coverage: Watch live on BBC TV, BBC iPlayer, BBC Red Button and online; listen… [+2931 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Why are crypto adverts taking over the Super Bowl?",
+        "description": "Cryptocurrency companies are set to dominate the commercials at this year's NFL final.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-60356210",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9F63/production/_123230804_p0bnqxqs.jpg",
+        "publishedAt": "2022-02-13T04:22:21.803245Z",
+        "content": "This Sunday the Los Angeles Rams will meet the Cincinnati Bengals in Super Bowl LVI. But the game is about more than just sports - its also about the adverts. \r\nWith an estimated TV audience of more … [+228 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Canada protest: After a police raid... what next for truckers?",
+        "description": "A police swoop on the protest at Windsor failed to shut it down. What will it take to get them to budge?",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-60364821",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1687B/production/_123238229_flag_976getty.jpg",
+        "publishedAt": "2022-02-13T04:22:19.7725003Z",
+        "content": "By Robin Levinson-King &amp; Jessica MurphyBBC News, Windsor and Ottawa\r\nImage source, Getty Images\r\nA police raid on the truckers' protest at Windsor, Ontario, failed to shut it down. With protester… [+7323 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Ukraine tensions: After eight years of war, an eastern city unifies against Russia",
+        "description": "Separatists tried to seize Kharkiv in 2014. Now the city is turning away from its old neighbour.",
+        "url": "http://www.bbc.co.uk/news/world-europe-60362274",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5495/production/_123235612_dscf0977-2.jpg",
+        "publishedAt": "2022-02-13T02:07:24.8199497Z",
+        "content": "By Joel GunterBBC News in Kharkiv, Ukraine\r\nImage caption, Liudmyla Bobova was displaced to Kharkiv by the war. \"I can breathe freely here,\" she said.\r\nAbout half an hour's drive from the centre of K… [+8658 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "New Zealand plays Barry Manilow to repel parliament protesters",
+        "description": "Protesters opposed to Covid-19 vaccine mandates remain camped outside parliament.",
+        "url": "http://www.bbc.co.uk/news/world-asia-60362529",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1DE5/production/_123235670_gettyimages-1238390772.jpg",
+        "publishedAt": "2022-02-13T00:22:23.3194915Z",
+        "content": "Image source, Getty Images\r\nImage caption, Protesters responded to the music with their own, including Twisted Sister's We're Not Gonna Take It\r\nAuthorities in New Zealand have been playing Barry Man… [+1906 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Swiss vote on tobacco ad ban long after neighbours",
+        "description": "Most European countries banned tobacco ads years ago, but the Swiss are yet to tighten their laws.",
+        "url": "http://www.bbc.co.uk/news/world-europe-60333336",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1700E/production/_123222249_swissvote.jpg",
+        "publishedAt": "2022-02-13T00:22:21.1838913Z",
+        "content": "By Imogen FoulkesBBC News, Bern\r\nImage caption, No-campaign posters have sprung up warning: \"Today tobacco, tomorrow sausages?\"\r\nSwiss voters go to the polls on Sunday to decide on a raft of measures… [+3955 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Ukraine tensions: A dozen nations tell citizens: leave Ukraine now",
+        "description": "Foreigners from several countries are urged to leave Ukraine over fears of a Russian invasion.",
+        "url": "http://www.bbc.co.uk/news/world-europe-60361983",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6813/production/_123234662_hi073753437.jpg",
+        "publishedAt": "2022-02-12T17:52:23.1408216Z",
+        "content": "Image caption, Law enforcement takes part in joint drills with the National Guard in the Kherson region of Ukraine on Saturday\r\nMore than a dozen countries have urged their citizens to leave Ukraine … [+5061 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Chagos islanders in emotional, historic trip home",
+        "description": "Andrew Harding boards a boat of Chagossians returning to the island the UK refuses to return to Mauritius.",
+        "url": "http://www.bbc.co.uk/news/world-africa-60349040",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3CF3/production/_123230651_dsc01567.jpg",
+        "publishedAt": "2022-02-12T08:52:21.4067354Z",
+        "content": "Image caption, It has been a long wait for the group returning triumphantly to the archipelago\r\nThe government of Mauritius has accused Britain of \"crimes against humanity\" and urged it to bow to int… [+10220 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "The deaths that came in the cold",
+        "description": "The Patels seemed to have a stable life in India. Why did they die trying to illegally cross the US-Canada border?",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-60290955",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4855/production/_123171581_borderplain_3top.jpg",
+        "publishedAt": "2022-02-11T00:37:29.312841Z",
+        "content": "By Holly Honderich &amp; Roxy GagdekarBBC News, Manitoba\r\nThe night Vaishaliben Patel, her husband Jagdish and their two children set out for the US-Canadian border they dressed in new heavy winter c… [+11030 chars]"
+      }
+    ]
+  }
